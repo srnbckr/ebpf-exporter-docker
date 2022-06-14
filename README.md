@@ -9,7 +9,7 @@ Currently supported:
 - Ubuntu 20.04 (focal)
     - `Dockerfile.focal`
 
-You can also used prebuilt container images:
+You can also use the following prebuilt container images:
 - [srnbckr/ebpf_exporter:bionic](https://hub.docker.com/repository/docker/srnbckr/ebpf_exporter)
 - [srnbckr/ebpf_exporter:focal](https://hub.docker.com/repository/docker/srnbckr/ebpf_exporter)
 
